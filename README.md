@@ -1,8 +1,7 @@
-## </h1> Prazer! Sou a Gabriella (gabriellarsoares)👋</h1>
+## Prazer! Sou a Gabriella (gabriellarsoares)👋
 
 💼 Apaixonada por <strong>negócios</strong> e <strong>tecnologia</strong><br>
 🌱 Sempre em busca de inovação e desafios criativos<br>
-🚀 Tudo que envolve inovação, otimização de processos, ou melhor, “pensar fora da caixa", faz brilhar meus olhos!
 </p>
 
 ---
