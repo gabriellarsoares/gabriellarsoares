@@ -1,27 +1,38 @@
-## 👋 Prazer, sou a Gabriella (gabriellarsoares)! 
+<h1 align="center"> Prazer! Sou a Gabriella (gabriellarsoares)👋</h1>
 
-Apaixonada por negócios e tecnologia. Desde criança, sempre fui uma entusiasta do empreendedorismo e, associado a ele, à vertente tecnológica. Tudo que envolve inovação, otimização de processos, ou melhor, “pensar fora da caixa", faz brilhar meus olhos.
+<p align="center">
+💼 Apaixonada por <strong>negócios</strong> e <strong>tecnologia</strong><br>
+🌱 Sempre em busca de inovação e desafios criativos<br>
+🚀 Tudo que envolve inovação, otimização de processos, ou melhor, “pensar fora da caixa", faz brilhar meus olhos!
+</p>
 
-👩💻Sou acadêmica de Sistemas de Informação e trabalho como Aprendiz na área de Marketing na Novartis — uma experiência que tem ampliado minha visão e me proporcionado aprendizados valiosos sobre o mundo dos negócios e a indústria farmacêutica global.
+---
 
-🌟 Comunicativa, entusiasmada, organizada e centrada, me adapto facilmente a novas tarefas, equipes e desafios. Participar de projetos criativos, eventos, viajar e praticar esportes estão entre os meus hobbies favoritos! Tenho grande apreço pelo contato com pessoas, amo estudar, conhecer mais sobre o que acontece no Brasil e mundo afora! 
+### 👩‍💻 Sobre mim
 
-🏅 Além disso, representei o Senac em diversas competições acadêmicas e fui premiada por instituições renomadas como a Universidade Estadual do Rio de Janeiro (UERJ), Universidade de Campinas (UNICAMP), Ministério da Ciência, Tecnologia e Inovação - Governo Federal, British College of Brazil, St. Nicholas School, entre outras.
+Desde criança, sempre fui uma entusiasta do empreendedorismo e, associado a ele, à vertente tecnológica.  Tudo que envolve inovação, otimização de processos ou, melhor dizendo, “pensar fora da caixa", faz brilhar meus olhos. ✨
 
+Atualmente, sou acadêmica de **Sistemas de Informação** e trabalho como **Aprendiz na área de Marketing na Novartis** —  uma experiência que tem ampliado minha visão e me proporcionado aprendizados valiosos sobre o mundo dos negócios e a indústria farmacêutica global. 🌐💊
 
-<!--
-**gabriellarsoares/gabriellarsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellarsoares)](https://github.com/gabriellarsoares/github-readme-stats)
+### 🧠 Características Pessoais
 
-Here are some ideas to get you started:
+- 🌟 Comunicativa, entusiasmada, organizada e centrada  
+- 🤝 Adaptação fácil a novas tarefas, equipes e desafios  
+- 💡 Apaixonada por projetos criativos, eventos, viagens e esportes  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Conquistas Acadêmicas
+
+Representei o **Senac** em diversas competições acadêmicas, com premiações de instituições renomadas como:
+
+- 🏅 Universidade Estadual do Rio de Janeiro (UERJ)  
+- 🏅 Universidade de Campinas (UNICAMP)  
+- 🏅 Ministério da Ciência, Tecnologia e Inovação — Governo Federal  
+- 🏅 British College of Brazil  
+- 🏅 St. Nicholas School  
+
+### 🌐 Vamos nos conectar?
+
+📫 [LinkedIn](https://www.linkedin.com/in/gabriellarsoares)   
+📧 gabi.ribeiro1409@gmail.com
