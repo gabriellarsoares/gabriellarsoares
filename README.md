@@ -13,7 +13,7 @@ Apaixonada por negócios e tecnologia. Desde criança, sempre fui uma entusiasta
 🏅 Além disso, representei o Senac em diversas competições acadêmicas e fui premiada por instituições renomadas como a Universidade Estadual do Rio de Janeiro (UERJ), Universidade de Campinas (UNICAMP), Ministério da Ciência, Tecnologia e Inovação - Governo Federal, British College of Brazil, St. Nicholas School, entre outras.
 
 
-![Gabriella's GitHub stats](https://github-readme-stats.vercel.app/api?gabriellarsoares=anuraghazra&show_icons=true&theme=transparent)
+![Gabriella's GitHub stats](https://github-readme-stats.vercel.app/api?gabriella-rsoares=anuraghazra&show_icons=true&theme=transparent)
 
 <!--
 **gabriellarsoares/gabriellarsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
