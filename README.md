@@ -1,4 +1,4 @@
-</h1> Prazer! Sou a Gabriella (gabriellarsoares)👋</h1>
+## </h1> Prazer! Sou a Gabriella (gabriellarsoares)👋</h1>
 
 💼 Apaixonada por <strong>negócios</strong> e <strong>tecnologia</strong><br>
 🌱 Sempre em busca de inovação e desafios criativos<br>
@@ -21,6 +21,8 @@ Atualmente, sou acadêmica de **Sistemas de Informação** e trabalho como **Apr
 - 🤝 Adaptação fácil a novas tarefas, equipes e desafios  
 - 💡 Apaixonada por projetos criativos, eventos, viagens e esportes  
 
+---
+
 ### 🏆 Conquistas Acadêmicas
 
 Representei o **Senac** em diversas competições acadêmicas, com premiações de instituições renomadas como:
@@ -31,7 +33,9 @@ Representei o **Senac** em diversas competições acadêmicas, com premiações 
 - 🏅 British College of Brazil  
 - 🏅 St. Nicholas School  
 
-### 🌐 Vamos nos conectar?
+---
+
+### 🌐 Conecte-se comigo!
 
 📫 [LinkedIn](https://www.linkedin.com/in/gabriellarsoares)   
 📧 gabi.ribeiro1409@gmail.com
