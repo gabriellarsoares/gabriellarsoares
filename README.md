@@ -1,4 +1,4 @@
-## 👋 Prazer, sou a Gabriella! 
+## 👋 Prazer, sou a Gabriella (gabriellarsoares)! 
 
 Apaixonada por negócios e tecnologia. Desde criança, sempre fui uma entusiasta do empreendedorismo e, associado a ele, à vertente tecnológica. Tudo que envolve inovação, otimização de processos, ou melhor, “pensar fora da caixa", faz brilhar meus olhos.
 
